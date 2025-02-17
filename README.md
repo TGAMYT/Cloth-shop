@@ -1,2 +1,2 @@
 # Cloth-shop
-A landing page for a clothing store 
+A simple landing page for a clothing store with basic form designing
